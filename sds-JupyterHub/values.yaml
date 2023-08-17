@@ -193,7 +193,7 @@ proxy:
     loadBalancerIP:
     loadBalancerSourceRanges: []
     enabled: true
-    loadBalancerDNSName: localhost
+    loadBalancerDNSName: ""
     port: 10500
 
   # chp relates to the proxy pod, which is responsible for routing traffic based
