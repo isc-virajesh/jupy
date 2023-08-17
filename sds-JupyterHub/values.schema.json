@@ -933,7 +933,7 @@
                             "type": "integer"
                         },
                         "enabled":{
-                            "type":"boolean"
+                            "type":"string"
                         },
                         "loadBalancerDNSName":{
                             "type":"string"
