@@ -1,0 +1,22 @@
+apiVersion: v1
+endpoints:
+- title: JupyterHub
+  icon: bpleditor.png
+  group: sample
+  description: Deployable jupyterhub service
+  type: browsing
+  url: http://{externalService.host}:{externalService.port}
+  contexts: 
+  - manage
+  visibility: external
+  presentation: link
+  externalService: jupyterHub
+externalServicesDeclarations: 
+- name: jupyterHub
+  type: loadBalancer
+  hostnameChartField: proxy.service.loadBalancerDNSName
+  loadBalancerPortChartField: proxy.service.port
+  enabled: false
+  enabledChartField: proxy.service.enabled
+  label: jupyterHub
+  description: JupyterHub service

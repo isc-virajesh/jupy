@@ -1,0 +1,52 @@
+apiVersion: v1
+entries:
+  sds-JupyterHub:
+  - annotations:
+      artifacthub.io/images: |-
+        - image: jupyterhub/configurable-http-proxy:4.5.6
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:3.0.1
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:3.0.1
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:3.0.1
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:3.0.1
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:3.0.1
+          name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.26.7
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.9
+          name: pause
+        - image: registry.k8s.io/pause:3.9
+          name: pause
+        - image: traefik:v2.10.4
+          name: traefik
+      intersystems/sds-category: sample
+      intersystems/sds-organization: InterSystems Corporation
+      intersystems/sds-title: JupyterHub
+    apiVersion: v2
+    appVersion: 4.0.2
+    created: "2023-08-17T13:47:39.267586-04:00"
+    description: Multi-user Jupyter installation
+    digest: cb2d1c827248486deedb33bcfa85f7cbaa4d5bd67091ebf849cb8993dfd12953
+    home: https://z2jh.jupyter.org
+    icon: https://isc-virajesh.github.io/jupy/sds-JupyterHub/
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.23.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: sds-JupyterHub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://isc-virajesh.github.io/jupy/sds-JupyterHub-3.0.1.tgz
+    version: 3.0.1
+generated: "2023-08-17T13:47:39.262875-04:00"
