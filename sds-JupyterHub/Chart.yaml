@@ -13,7 +13,7 @@ maintainers:
   name: Erik Sundell
 - name: Simon Li
   url: https://github.com/manics/
-name: sds-JupyterHub
+name: sds-jupyterhub
 sources:
 - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
 version: 3.0.2
