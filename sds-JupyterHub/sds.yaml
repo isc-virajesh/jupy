@@ -10,9 +10,9 @@ endpoints:
   - manage
   visibility: external
   presentation: link
-  externalService: jupyterHub
+  externalService: proxy-public
 externalServicesDeclarations: 
-- name: jupyterHub
+- name: proxy-public
   type: loadBalancer
   hostnameChartField: proxy.service.loadBalancerDNSName
   loadBalancerPortChartField: proxy.service.port
