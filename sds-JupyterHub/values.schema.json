@@ -16,24 +16,6 @@
         "global"
     ],
     "properties": {
-        "cloudProvider": {
-            "type": [
-                "string",
-                "null"
-            ]
-        },
-        "serviceInternalName": {
-            "type": [
-                "string",
-                "null"
-            ]
-        },
-        "cloudProviderRegion": {
-            "type": [
-                "string",
-                "null"
-            ]
-        },
         "enabled": {
             "type": [
                 "boolean",
