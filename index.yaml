@@ -177,7 +177,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 56c6648849ffc39725b7c0d22df8ef55638edf2d1fd0ca76c7ccac003f94469e
     home: https://z2jh.jupyter.org
-    icon: https://isc-virajesh.github.io/jupy/sds-jupyterhub/
+    icon: https://isc-virajesh.github.io/jupy/sds-JupyterHub/
     keywords:
     - jupyter
     - jupyterhub
