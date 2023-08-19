@@ -28,7 +28,7 @@ entries:
       intersystems/sds-title: JupyterHub
     apiVersion: v2
     appVersion: 4.0.2
-    created: "2023-08-18T21:43:05.002626-04:00"
+    created: "2023-08-18T21:59:46.108916-04:00"
     description: Multi-user Jupyter installation
     digest: a792eb798842e1e653ed11b968d042e5ede0c15a5b88305d2c4a002af82e7cee
     home: https://z2jh.jupyter.org
@@ -47,7 +47,7 @@ entries:
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
     urls:
-    - sds-JupyterHub-3.0.1.tgz
+    - https://isc-virajesh.github.io/jupy/sds-JupyterHub-3.0.1.tgz
     version: 3.0.1
   - annotations:
       artifacthub.io/images: |-
@@ -76,7 +76,7 @@ entries:
       intersystems/sds-title: JupyterHub
     apiVersion: v2
     appVersion: 4.0.2
-    created: "2023-08-18T21:43:04.996049-04:00"
+    created: "2023-08-18T21:59:46.101953-04:00"
     description: Multi-user Jupyter installation
     digest: 6e94d0f92ae4d37e884042c331b5e120d51c2d22915965ef89d3a9b1e06564e0
     home: https://z2jh.jupyter.org
@@ -95,7 +95,7 @@ entries:
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
     urls:
-    - sds-JupyterHub-1.0.1.tgz
+    - https://isc-virajesh.github.io/jupy/sds-JupyterHub-1.0.1.tgz
     version: 1.0.1
   - annotations:
       artifacthub.io/images: |-
@@ -124,7 +124,7 @@ entries:
       intersystems/sds-title: JupyterHub
     apiVersion: v2
     appVersion: 4.0.2
-    created: "2023-08-18T21:43:04.990659-04:00"
+    created: "2023-08-18T21:59:46.093329-04:00"
     description: Multi-user Jupyter installation
     digest: 2c810fb7926d2bd0aaea9d08343238965281b459c35e48ff3b26eed96a7c76f6
     home: https://z2jh.jupyter.org
@@ -143,7 +143,7 @@ entries:
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
     urls:
-    - sds-JupyterHub-1.0.0.tgz
+    - https://isc-virajesh.github.io/jupy/sds-JupyterHub-1.0.0.tgz
     version: 1.0.0
   sds-jupyterhub:
   - annotations:
@@ -173,7 +173,7 @@ entries:
       intersystems/sds-title: JupyterHub
     apiVersion: v2
     appVersion: 4.0.2
-    created: "2023-08-18T21:43:05.019322-04:00"
+    created: "2023-08-18T21:59:46.125751-04:00"
     description: Multi-user Jupyter installation
     digest: 56c6648849ffc39725b7c0d22df8ef55638edf2d1fd0ca76c7ccac003f94469e
     home: https://z2jh.jupyter.org
@@ -192,7 +192,7 @@ entries:
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
     urls:
-    - sds-jupyterhub-3.0.4.tgz
+    - https://isc-virajesh.github.io/jupy/sds-jupyterhub-3.0.4.tgz
     version: 3.0.4
   - annotations:
       artifacthub.io/images: |-
@@ -221,7 +221,7 @@ entries:
       intersystems/sds-title: JupyterHub
     apiVersion: v2
     appVersion: 4.0.2
-    created: "2023-08-18T21:43:05.014628-04:00"
+    created: "2023-08-18T21:59:46.119597-04:00"
     description: Multi-user Jupyter installation
     digest: 11b87481c19e24e3785ef710fa16b85ca9e2c5c38ee633ad97e7f960b654ef1c
     home: https://z2jh.jupyter.org
@@ -240,7 +240,7 @@ entries:
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
     urls:
-    - sds-jupyterhub-3.0.3.tgz
+    - https://isc-virajesh.github.io/jupy/sds-jupyterhub-3.0.3.tgz
     version: 3.0.3
   - annotations:
       artifacthub.io/images: |-
@@ -269,7 +269,7 @@ entries:
       intersystems/sds-title: JupyterHub
     apiVersion: v2
     appVersion: 4.0.2
-    created: "2023-08-18T21:43:05.007957-04:00"
+    created: "2023-08-18T21:59:46.114012-04:00"
     description: Multi-user Jupyter installation
     digest: dd6b7e691289aaf4e30769c39b47acbc4ecac76c44b5baf6bed31803a35b7fce
     home: https://z2jh.jupyter.org
@@ -288,6 +288,6 @@ entries:
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
     urls:
-    - sds-JupyterHub-3.0.2.tgz
+    - https://isc-virajesh.github.io/jupy/sds-JupyterHub-3.0.2.tgz
     version: 3.0.2
-generated: "2023-08-18T21:43:04.984604-04:00"
+generated: "2023-08-18T21:59:46.085933-04:00"
