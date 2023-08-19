@@ -16,7 +16,7 @@ maintainers:
 name: sds-jupyterhub
 sources:
 - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
-version: 3.0.3
+version: 3.0.4
 annotations:
   intersystems/sds-title: JupyterHub
   intersystems/sds-organization: InterSystems Corporation
