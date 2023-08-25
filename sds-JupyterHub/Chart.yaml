@@ -2,7 +2,7 @@ apiVersion: v2
 appVersion: 4.0.2
 description: Multi-user Jupyter installation
 home: https://z2jh.jupyter.org
-icon: https://isc-virajesh.github.io/jupy/sds-jupyterhub/
+icon: https://isc-virajesh.github.io/jupy/sds-JupyterHub/
 keywords:
 - jupyter
 - jupyterhub
@@ -16,7 +16,7 @@ maintainers:
 name: sds-jupyterhub
 sources:
 - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
-version: 3.0.4
+version: 3.0.3
 annotations:
   intersystems/sds-title: JupyterHub
   intersystems/sds-organization: InterSystems Corporation
